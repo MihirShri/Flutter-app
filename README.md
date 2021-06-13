@@ -1,6 +1,6 @@
 # kat_mi
 
-Happy Birthday Katyayani
+Birthday App
 
 ## Getting Started
 
