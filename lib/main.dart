@@ -1,3 +1,4 @@
+//@dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:kat_mi/startingScrren.dart';
@@ -9,10 +10,10 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: startingScreen(),
     );
   }
