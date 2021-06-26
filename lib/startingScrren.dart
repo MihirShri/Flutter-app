@@ -147,7 +147,7 @@ class _startingScreenState extends State<startingScreen> {
                         child: AnimatedTextKit(
                           animatedTexts: [
                             TypewriterAnimatedText(
-                              'Happy\n\nBirthday',
+                              'Happy\nBirthday',
                               textStyle: TextStyle(
                                 fontFamily: 'acme',
                                 fontSize: 72,
